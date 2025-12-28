@@ -1,5 +1,5 @@
 <div align="center">
-<img height="400" alt="GHBanner" src="./preview.png" />
+<img height="400" alt="GHBanner" src="public/preview.png" />
 
 # PromptPerfect AI
 
